@@ -1,0 +1,15 @@
+.card:hover{
+    box-shadow: 0px 0px 5px grey;
+    color: #71BF47;
+}
+.borderb{
+    border-bottom: 2px solid #006770;
+    margin-bottom: 4px;
+    color: #696969 !important;
+}
+body{
+    overflow-x: hidden;
+}
+.justify{
+    text-align: justify;
+}
